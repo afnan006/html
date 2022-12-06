@@ -1,0 +1,59 @@
+h1 {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: burlywood;
+}
+
+p1 {
+    color: lime;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 160%;
+    border: 2px solid powderblue;
+    margin-top:  50px;
+     padding-bottom: 10px;                                                   
+}
+.table {
+    margin-top: 5%;
+    
+}
+table {
+    color:black;
+    border: 1px solid goldenrod;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+}
+
+table,tr,td{
+    border: 1px solid black;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.navitems{
+    float: right;
+}
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+}
+ 
+.navitems a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.navitems a:hover {
+    background-color: black;
+
+}
